@@ -1,6 +1,4 @@
 name: binder-holoview
-channels:
-  - conda-forge
 dependencies:
   - python
   - holoviews
