@@ -4,3 +4,4 @@ dependencies:
   - holoviews
   - pandas
   - bokeh
+  - nbconvert=5.4.1
