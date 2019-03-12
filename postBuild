@@ -1,0 +1,3 @@
+# Create data
+python setup_data.py
+# or could retrieve from GitHub
