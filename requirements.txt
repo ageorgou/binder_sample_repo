@@ -1,0 +1,3 @@
+holoviews
+pandas
+bokeh
